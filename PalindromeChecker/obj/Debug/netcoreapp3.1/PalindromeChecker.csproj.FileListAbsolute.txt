@@ -1,0 +1,10 @@
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\bin\Debug\netcoreapp3.1\PalindromeChecker.exe
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\bin\Debug\netcoreapp3.1\PalindromeChecker.deps.json
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.json
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\bin\Debug\netcoreapp3.1\PalindromeChecker.runtimeconfig.dev.json
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\bin\Debug\netcoreapp3.1\PalindromeChecker.dll
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\bin\Debug\netcoreapp3.1\PalindromeChecker.pdb
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfoInputs.cache
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\obj\Debug\netcoreapp3.1\PalindromeChecker.AssemblyInfo.cs
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\obj\Debug\netcoreapp3.1\PalindromeChecker.dll
+D:\SelfStudy\AnagramsPalendroms\AnagramPalendrom\AnagramPalendrom\obj\Debug\netcoreapp3.1\PalindromeChecker.pdb
